@@ -24,7 +24,7 @@ Antes de executar os testes, certifique-se de que os seguintes serviços estão 
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/banco-web-tests.git
+   git clone https://github.com/andressabessa/banco-web-tests
    cd banco-web-tests
    ```
 
